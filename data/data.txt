@@ -1,0 +1,21 @@
+{
+      "title": "1.4 Million Ford F150 Pickups Recalled!",
+      "body": "The issue stems from degraded electrical connections between the transmission range sensor and the powertrain control module. Over time, exposure to heat and vibration can cause this degradation, potentially leading to unexpected downshifts into second gear without any driver input—a serious safety concern, especially at higher speeds.",
+      "img": "https://img.indianautosblog.com/2013/12/2015-Ford-F150.jpg",
+      "author": "yoshi",
+      "id": "fSOks3Tbb7M"
+    },
+    {
+      "title": "Hyundai Ioniq 3 Debuts as Sleek, Efficient Electric Hatch for Europe",
+      "body": "Underpinned by Hyundai’s E-GMP architecture, the Ioniq 3 uses a 400-volt system and supports rapid charging. DC fast charging from 10 to 80 percent takes around 29 minutes, while AC charging is supported up to 22 kW. Buyers can choose between 42.2 kWh and 61 kWh battery packs, paired with a front-mounted motor producing up to 147 hp.\n\nInside, the Ioniq 3 follows a “Furnished Space” philosophy, offering a flat-floor layout, a generous 441-litre boot, and an additional underfloor “Megabox” for extra storage. It also introduces Pleos Connect—Hyundai’s new infotainment system based on Android Automotive OS—featuring Digital Key 2, Plug & Charge, and vehicle-to-load (V2L) capability.",
+      "img": "https://img.indianautosblog.com/2026/04/21/hyundai-ioniq-3-front-quarter-7f31.jpg",
+      "author": "mario",
+      "id": "zTBDxDtx4DY"
+    },
+    {
+      "title": "Driverless Robotaxi in Dubai: Pony.ai Begins Trials",
+      "body": "These trials are part of Pony.ai’s collaboration with Dubai’s Roads and Transport Authority (RTA), which granted approval for public-road autonomous testing back in September 2025. The shift to fully driverless operations comes after months of real-world validation, bringing the service closer to public rollout.\n\nDubai’s broader vision is equally ambitious, targeting 25% of all city trips to be handled by autonomous mobility by 2030 as part of its smart city roadmap.",
+      "img": "https://img.indianautosblog.com/2026/04/20/poni-ai-dubai-fb27.jpg",
+      "author": "yoshi",
+      "id": "PnBuEpFHxqM"
+    }
